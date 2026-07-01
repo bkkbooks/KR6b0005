@@ -1,0 +1,213 @@
+canonical_identifier: bkk:krp/KR6b0005/v1
+canonical_location: https://kanripo.org/bkk/KR6b0005/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大方便佛報恩經
+  identifiers:
+    alt_id:
+    - T03n0156
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0156.xml
+    old_id: T03n0156
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0005_000.yaml, hash: 'sha256:dfaa5207794b42c008c3f73b63d1db73d0475b44326ca07d97e172144a1e66c9'}
+  - {seq: 1, filename: KR6b0005_001.yaml, hash: 'sha256:2ff2ad3bddb25ba2633f3a9e326720bd3b9b4f3cbc04dc8975bf356a9bc59a4d'}
+  - {seq: 2, filename: KR6b0005_002.yaml, hash: 'sha256:c1cea287463e5222ab07a2056ec098e41bfe00e122a2e189f1c762c586ae3c18'}
+  - {seq: 3, filename: KR6b0005_003.yaml, hash: 'sha256:725cc8781a2fad6496dc425547147b645ffb1b00fb99265c7014cd1e995bae2b'}
+  - {seq: 4, filename: KR6b0005_004.yaml, hash: 'sha256:2fbb641467ef1fba3a26db2e8d6aeeab98164b1fc3636fd734177fdbef2455a5'}
+  - {seq: 5, filename: KR6b0005_005.yaml, hash: 'sha256:12cde906e2fcf2ae79f027e51f127c86aaef186fa4d66be80e77013ba346d88e'}
+  - {seq: 6, filename: KR6b0005_006.yaml, hash: 'sha256:61e8d42306a1e17b92aae067e778555ac8cb7d0772521a9c987dd676359dbadc'}
+  - {seq: 7, filename: KR6b0005_007.yaml, hash: 'sha256:732d9e67d3f84aa5e99c1560074aff87d4b56cf6a956abd22c3899c1cfa9c43b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0005_001.markers.yaml, hash: 'sha256:a388d3ca16544a7f2dd53651828a6a693817a5febf4f24fc888ed58db569386f'}
+  - {seq: 2, role: markers, filename: assets/KR6b0005_002.markers.yaml, hash: 'sha256:72f862b0d76e70d674a41329d4b09b88c22a21900a61306c051baeb4773fa39d'}
+  - {seq: 3, role: markers, filename: assets/KR6b0005_003.markers.yaml, hash: 'sha256:6b4c578b62ebfff45d7058948a344f950bfa441b933798932c524f16b4551971'}
+  - {seq: 4, role: markers, filename: assets/KR6b0005_004.markers.yaml, hash: 'sha256:54865ae247add0f18a532752d319440072f331749504a92e3e8fdba93748fb1d'}
+  - {seq: 5, role: markers, filename: assets/KR6b0005_005.markers.yaml, hash: 'sha256:0dc2e3e05b82c1404b01cac201e0c43b7178dde580420a230f179076c88e11c5'}
+  - {seq: 6, role: markers, filename: assets/KR6b0005_006.markers.yaml, hash: 'sha256:4102ddbb10b53c40dfb86930c48105f3c5ae9428f6ab396f943173fa06f13ccc'}
+  - {seq: 7, role: markers, filename: assets/KR6b0005_007.markers.yaml, hash: 'sha256:e07f2f91dfc3aca175b667a90f291c9034260937f9ec8130c895bfbbf3fa38be'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8546
+  label: 大方便佛報恩經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0005_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0005_T_001-mulu-2
+    span:
+    - body
+    - 4723
+    - 4723
+  label: 2 孝養品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0005_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8201
+  label: 大方便佛報恩經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0005_T_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 3 對治品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6b0005_T_002-mulu-2
+    span:
+    - body
+    - 6646
+    - 6646
+  label: 4 發菩提心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0005_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8170
+  label: 大方便佛報恩經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6b0005_T_003-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 5 論議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0005_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8373
+  label: 大方便佛報恩經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6b0005_T_004-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 6 惡友品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0005_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7745
+  label: 大方便佛報恩經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6b0005_T_005-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 7 慈品
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0005_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 9765
+  label: 大方便佛報恩經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6b0005_T_006-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 8 優波離品
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0005_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 6883
+  label: 大方便佛報恩經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6b0005_T_007-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 9 親近品
+  type: mulu
+  level: 1
+hash: sha256:1cf290a1cbd5a1a17c4c4571713c80146d7e5295a9aafc8a5f43136179dd265d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

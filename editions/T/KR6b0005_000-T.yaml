@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0005/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大方便佛報恩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0156.xml
+    old_id: T03n0156
+hash: sha256:dfaa5207794b42c008c3f73b63d1db73d0475b44326ca07d97e172144a1e66c9
